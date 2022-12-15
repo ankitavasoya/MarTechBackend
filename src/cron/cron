@@ -1,0 +1,1 @@
+*/10 * * * * /usr/bin/node /app/bin/campaign-call.cron.js >> /var/log/cron.log
